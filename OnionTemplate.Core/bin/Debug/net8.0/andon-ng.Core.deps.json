@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "andon-ng.Core/1.0.0": {
+        "runtime": {
+          "andon-ng.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "andon-ng.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

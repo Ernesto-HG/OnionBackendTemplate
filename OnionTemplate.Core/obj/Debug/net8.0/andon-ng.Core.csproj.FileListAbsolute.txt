@@ -1,0 +1,11 @@
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Core\bin\Debug\net8.0\andon-ng.Core.deps.json
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Core\bin\Debug\net8.0\andon-ng.Core.dll
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Core\bin\Debug\net8.0\andon-ng.Core.pdb
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Core\obj\Debug\net8.0\andon-ng.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Core\obj\Debug\net8.0\andon-ng.Core.AssemblyInfoInputs.cache
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Core\obj\Debug\net8.0\andon-ng.Core.AssemblyInfo.cs
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Core\obj\Debug\net8.0\andon-ng.Core.csproj.CoreCompileInputs.cache
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Core\obj\Debug\net8.0\andon-ng.Core.dll
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Core\obj\Debug\net8.0\refint\andon-ng.Core.dll
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Core\obj\Debug\net8.0\andon-ng.Core.pdb
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Core\obj\Debug\net8.0\ref\andon-ng.Core.dll

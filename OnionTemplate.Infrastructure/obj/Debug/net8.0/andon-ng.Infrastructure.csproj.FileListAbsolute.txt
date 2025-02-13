@@ -1,0 +1,17 @@
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Infrastructure\bin\Debug\net8.0\andon-ng.Infrastructure.deps.json
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Infrastructure\bin\Debug\net8.0\andon-ng.Infrastructure.runtimeconfig.json
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Infrastructure\bin\Debug\net8.0\andon-ng.Infrastructure.dll
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Infrastructure\bin\Debug\net8.0\andon-ng.Infrastructure.pdb
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Infrastructure\bin\Debug\net8.0\andon-ng.Core.dll
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Infrastructure\bin\Debug\net8.0\andon-ng.Core.pdb
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Infrastructure\obj\Debug\net8.0\andon-ng.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Infrastructure\obj\Debug\net8.0\andon-ng.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Infrastructure\obj\Debug\net8.0\andon-ng.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Infrastructure\obj\Debug\net8.0\andon-ng.Infrastructure.AssemblyInfo.cs
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Infrastructure\obj\Debug\net8.0\andon-ng.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Infrastructure\obj\Debug\net8.0\andon-ng.EDC818F5.Up2Date
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Infrastructure\obj\Debug\net8.0\andon-ng.Infrastructure.dll
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Infrastructure\obj\Debug\net8.0\refint\andon-ng.Infrastructure.dll
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Infrastructure\obj\Debug\net8.0\andon-ng.Infrastructure.pdb
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Infrastructure\obj\Debug\net8.0\andon-ng.Infrastructure.genruntimeconfig.cache
+C:\Users\ernes\Documents\AndonNextGen\andon-ng-Backend\andon-ng.Infrastructure\obj\Debug\net8.0\ref\andon-ng.Infrastructure.dll
